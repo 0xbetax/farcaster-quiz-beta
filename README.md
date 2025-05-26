@@ -10,7 +10,7 @@ A simple quiz frame for Farcaster to engage Web3 users with daily crypto questio
 - Simulated cast to farcaster.xyz for extra points
 - Lightweight and easy to deploy
 
-## Installation
+## InstallatioN
 
 1. Clone the repository:
    ```bash
