@@ -17,9 +17,11 @@ A simple quiz frame for Farcaster to engage Web3 users with daily crypto questio
    git clone https://github.com/0xbetax/farcaster-quiz-beta.git
    cd farcaster-quiz-beta
 ## Install dependencies:
-
+```bash
 pip3 install -r requirements.txt
+
 ##  RUN THE APP
+```bash
 python3 quiz_frame.py
 
 ##  DEMO:
