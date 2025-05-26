@@ -23,14 +23,24 @@ pip3 install -r requirements.txt
 ##  RUN THE APP
 python3 quiz_frame.py
 
+![Status](https://img.shields.io/badge/status-beta-yellow)
+
 ##  DEMO:
 Run locally or deploy on Glitch: beta-quiz-farcaster.glitch.me
 
+## Roadmap
+- Add leaderboard page
+- Support multiple questions
+- Deploy to Warpcast
+- 
 ##  Tech Stack
 
 Python, Flask
 
 HTML, Farcaster Frames API
+## Resources
+- [Farcaster Protocol](https://github.com/farcasterxyz/protocol)[](https://github.com/farcasterxyz/protocol)
+- [Frames Documentation](https://docs.farcaster.xyz/reference/frames/spec)[](https://github.com/antons0l/farcaster-frames-quiz)
 
 ##  Author
 Beta [@0xbetax_eth](https://farcaster.xyz/0xbetax.eth)
